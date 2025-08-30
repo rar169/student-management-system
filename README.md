@@ -10,11 +10,13 @@ A simple **Java console app** to manage student records with file-based storage.
 - 🔄 Data loaded on startup  
 
 ## Run
-bash
+
+-bash
 
 javac StudentManagementApp.java
 
 java StudentManagementApp
+
 
 Sample Usage
 
@@ -26,10 +28,15 @@ Sample Usage
 Enter your choice: 1
 
 Enter ID: 123
+
 Enter Name: Rey
+
 Enter Age: 23
+
 Enter Course: Computer Science
+
 ✅ Student added successfully!
+
 Technical Details
 
 Language: Java
@@ -37,4 +44,5 @@ Storage: File-based persistence (CSV format)
 Data Structure: ArrayList for in-memory storage
 
 File: students.txt for permanent storage
+
 
