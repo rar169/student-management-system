@@ -13,9 +13,11 @@ A simple **Java console app** to manage student records with file-based storage.
 bash
 
 javac StudentManagementApp.java
+
 java StudentManagementApp
 
 Sample Usage
+
 === Student Management System ===
 1. Add Student
 2. View Students
@@ -35,3 +37,4 @@ Storage: File-based persistence (CSV format)
 Data Structure: ArrayList for in-memory storage
 
 File: students.txt for permanent storage
+
